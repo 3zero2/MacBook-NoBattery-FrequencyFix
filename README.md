@@ -5,7 +5,6 @@ Removing the battery from your MacBook results in the machine running at its low
 The procedure is as follows:
 
 1. Disable FileVault 
-1. Disable SIP
-1. Disable authenticated root
+1. Disable SIP and authenticated root
 1. Remove IOPlatformPluginFamily.kext
 1. Install CPUTune
